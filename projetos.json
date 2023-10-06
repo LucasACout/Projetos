@@ -1,8 +1,8 @@
 [
     {
-        "nome": "TesteApp",
-	"titulo": "app",
-	"url_image": "app.png"
+        "nome": "Make Your Burger",
+	"titulo": "Curso Vue3 - Matheus Battisti",
+	"url_image": "https://raw.githubusercontent.com/LucasACout/Projetos/main/img/app_burger.png"
     },
     {
         "nome": "TesteApp",
