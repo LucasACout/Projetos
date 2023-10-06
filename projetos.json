@@ -22,26 +22,26 @@
     {
         "nome": "Noticias Cidade",
 	"titulo": "Curso Udemy - Desenvolvimento Web Completo",
-	"url_image": "https://raw.githubusercontent.com/LucasACout/Projetos/main/img/app_finas.png"
+	"url_image": "https://raw.githubusercontent.com/LucasACout/Projetos/main/img/app_noticias.png"
     },
     {
         "nome": "Send Mail",
 	"titulo": "Curso Udemy - Desenvolvimento Web Completo",
-	"url_image": "https://raw.githubusercontent.com/LucasACout/Projetos/main/img/app_finas.png"
+	"url_image": "https://raw.githubusercontent.com/LucasACout/Projetos/main/img/app_sendmail.png"
     },
     {
         "nome": "Twitter Clone",
 	"titulo": "Curso Udemy - Desenvolvimento Web Completo",
-	"url_image": "https://raw.githubusercontent.com/LucasACout/Projetos/main/img/app_finas.png"
+	"url_image": "https://raw.githubusercontent.com/LucasACout/Projetos/main/img/app_twitterclone.png"
     },
     {
         "nome": "Dashboard",
 	"titulo": "Curso Udemy - Desenvolvimento Web Completo",
-	"url_image": "https://raw.githubusercontent.com/LucasACout/Projetos/main/img/app_finas.png"
+	"url_image": "https://raw.githubusercontent.com/LucasACout/Projetos/main/img/app_dashboard.png"
     },
     {
         "nome": "Helpdesk",
 	"titulo": "Curso Udemy - Desenvolvimento Web Completo",
-	"url_image": "https://raw.githubusercontent.com/LucasACout/Projetos/main/img/app_finas.png"
-    },
+	"url_image": "https://raw.githubusercontent.com/LucasACout/Projetos/main/img/app_helpdesk.png"
+    }
 ]
